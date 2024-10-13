@@ -3,26 +3,42 @@ This project automates the end-to-end (E2E) flow of a mobile application using A
 
 ### Table of Contents:
 Prerequisites
+
 Project Structure
+
 Dependencies
+
 Setup
+
 Running the Tests
+
 Test Flow
+
 Technologies Used
+
 Contributing
+
 Prerequisites
+
 Make sure you have the following installed and set up before running the tests:
 
 Java JDK 21
 
 Android SDK (make sure ANDROID_HOME is set)
+
 Appium (version 2.x recommended)
+
 Node.js (for Appium server)
+
 Appium Desktop (optional, for starting the Appium server)
+
 Android Emulator 
+
 Android Inspector to locate UI elements of the app
+
 pom.xml: Contains Maven dependencies required to run the automation tests.
-Dependencies
+
+###Dependencies
 The following dependencies are included in the pom.xml:
 
 xml
