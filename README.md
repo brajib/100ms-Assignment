@@ -20,7 +20,7 @@ Contributing
 
 Prerequisites
 
-Make sure you have the following installed and set up before running the tests:
+### Make sure you have the following installed and set up before running the tests:
 
 Java JDK 21
 
