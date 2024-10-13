@@ -1,7 +1,7 @@
 Mobile App End-to-End Automation with Appium and TestNG
 This project automates the end-to-end (E2E) flow of a mobile application using Appium and TestNG. It includes launching the app, navigating through the app’s key screens, and validating the correct functionality. The automation leverages an emulator or a real device, and Android Inspector is used to locate and identify the UI elements.
 
-Table of Contents:
+### Table of Contents:
 Prerequisites
 Project Structure
 Dependencies
