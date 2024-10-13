@@ -14,6 +14,7 @@ Prerequisites
 Make sure you have the following installed and set up before running the tests:
 
 Java JDK 21
+
 Android SDK (make sure ANDROID_HOME is set)
 Appium (version 2.x recommended)
 Node.js (for Appium server)
